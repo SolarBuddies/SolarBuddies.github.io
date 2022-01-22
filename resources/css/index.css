@@ -1,0 +1,51 @@
+.banner {
+    background-image:url("../images/Generic.png");
+    background-color: #00c3ffad;
+    margin-top: 0px;
+    text-align: center;
+    padding: 300px 0;
+    
+}
+
+h1 {
+    font-weight: bold;
+    color: #c8ff00;
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-weight: bold;
+    color: #c8ff00;
+    font-size: 30px;
+  }
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: rgb(255, 255, 255);
+    color: aqua;
+}
+
+a.button:hover {
+  color: rgb(0, 132, 255);
+}
+
+.social{
+    font-size: 30px;
+    color:rgb(105, 120, 255);
+    transition: color 0.25s;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.social:hover {
+  color: blue;
+}
+
+
+
+
+
+
